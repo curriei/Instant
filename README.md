@@ -1,4 +1,4 @@
-# instant
+# Instant
 
 A new Flutter project.
 
